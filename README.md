@@ -1,8 +1,14 @@
 # Collins_Instructions
 
-*You cannot perform remote git commands (push, pull) when using Cisco AnyConnect. If you want to perform one of these commands, sign out of Cisco AnyConnect first.*
+**You cannot perform remote git commands (push, pull) when using Cisco AnyConnect. If you want to perform one of these commands, sign out of Cisco AnyConnect first.**
 
-## Setting up Git
+
+## Creating a GitHub Account
+
+1. Go to github.com and select "Sign Up". Create an account with the username: [first name][last name]-Collins (e.g. mine is WilliamCallan-Collins).
+
+
+## Setting up Git on your machine
 
 1. Go to the Collins Software Center page for Git by entering the following line into your internet browser searchbar:
    

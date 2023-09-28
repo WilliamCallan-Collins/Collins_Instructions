@@ -5,7 +5,7 @@
 
 ## Creating a GitHub Account
 
-1. Go to github.com and select "Sign Up". Create an account with the username: [first name][last name]-Collins (e.g. mine is WilliamCallan-Collins).
+1. Go to github.com and `click` "Sign Up" button. Create an account with the username: [first name][last name]-Collins (e.g. mine is WilliamCallan-Collins).
 
 
 ## Setting up Git on your machine
